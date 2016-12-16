@@ -1,4 +1,8 @@
-# Sketch
+# Ignore
+
+.sass-cache/
+images/
+js/
+libs/
 sketch/
 .DS_Store
-images/
